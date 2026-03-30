@@ -205,7 +205,7 @@ Deep graph clustering, which aims to reveal the underlying graph structure and d
 | 2024 | **EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking**  | NeurIPS |          [Link](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/sis_research/article/10909/&path_info=2367_EyeGraph_Modularity_aware.pdf)          | - | 
 | 2024 | **Identify Then Recommend: Towards Unsupervised Group Recommendation (ITR)**  | NeurIPS |          [Link](https://arxiv.org/abs/2410.23757)          | [Link](https://github.com/yueliu1999/ITR) | 
 | 2024 | **End-to-end Learnable Clustering for Intent Learning in Recommendation (ELCRec)**  | NeurIPS |          [Link](https://arxiv.org/pdf/2401.05975.pdf)          | [Link](https://github.com/yueliu1999/ELCRec) | 
-| 2023 | **GuardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering** | arXiv |          [Link](https://arxiv.org/pdf/2306.04984.pdf)          |          -          |
+| 2023 | **GuardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering** | TIFS |          [Link](https://arxiv.org/pdf/2306.04984.pdf)          |          [Link](https://github.com/csyuhao/GuardFL-Official)          |
 
 
 ### Others
@@ -448,7 +448,6 @@ About the introduction of each dataset, please check [here](./dataset/README.md)
   year={2022}
 }
 
-
 @inproceedings{liuyue_RGC,
   title={Reinforcement Graph Clustering with Unknown Cluster Number},
   author={Liu, Yue and Liang, Ke and Xia, Jun and Yang, Xihong and Zhou, Sihang and Liu, Meng and Liu, Xinwang and Li, Stan Z},
@@ -457,14 +456,19 @@ About the introduction of each dataset, please check [here](./dataset/README.md)
   year={2023}
 }
 
-
-
-
 @article{RGAE,
   title={Rethinking Graph Auto-Encoder Models for Attributed Graph Clustering},
   author={Mrabah, Nairouz and Bouguessa, Mohamed and Touati, Mohamed Fawzi and Ksantini, Riadh},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   year={2022}
+}
+
+@article{yu2025guard,
+  title   = {G${}^2$uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering},
+  author  = {Hao Yu and Chuan Ma and Meng Liu and Tianyu Du and Ming Ding and Tao Xiang and Shouling Ji and Xinwang Liu},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year    = {2025},
+  doi     = {10.1109/TIFS.2025.3639985}
 }
 ```
 
