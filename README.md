@@ -205,7 +205,7 @@ Deep graph clustering, which aims to reveal the underlying graph structure and d
 | 2024 | **EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking**  | NeurIPS |          [Link](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/sis_research/article/10909/&path_info=2367_EyeGraph_Modularity_aware.pdf)          | - | 
 | 2024 | **Identify Then Recommend: Towards Unsupervised Group Recommendation (ITR)**  | NeurIPS |          [Link](https://arxiv.org/abs/2410.23757)          | [Link](https://github.com/yueliu1999/ITR) | 
 | 2024 | **End-to-end Learnable Clustering for Intent Learning in Recommendation (ELCRec)**  | NeurIPS |          [Link](https://arxiv.org/pdf/2401.05975.pdf)          | [Link](https://github.com/yueliu1999/ELCRec) | 
-| 2023 | **GuardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering** | TIFS |          [Link](https://arxiv.org/pdf/2306.04984.pdf)          |          [Link](https://github.com/csyuhao/GuardFL-Official)          |
+| 2023 | **GuardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering** | TIFS |          [Link](https://ieeexplore.ieee.org/abstract/document/11275861)          |          [Link](https://github.com/csyuhao/GuardFL-Official)          |
 
 
 ### Others
